@@ -1,0 +1,661 @@
+2022-09-01 07:35:54.323: arcdps 20220824.194650-451-x64
+2022-09-01 07:35:55.151: info: gw2 0x7FF68A1C0000-0x7FF68CCA8000 (0x2F222EBF)
+2022-09-01 07:35:55.263: info: arcdps 0x7FFA6D580000-0x7FFA6D6CB000 (0x874D80D8)
+2022-09-01 07:35:55.263: info: using d3d11
+2022-09-01 07:35:56.665: info: loading config from "D:\GuildWars2\addons\arcdps\arcdps.ini"
+2022-09-01 07:35:56.687: info: ready
+2022-09-01 07:36:11.433: extensions: unofficial_extras 0x7FFA5BEC0000-0x7FFA5C09C000 (1.6.1.1, 0x937B62A6)
+2022-09-01 07:36:11.478: extensions: killproof.me 0x7FFA5B910000-0x7FFA5BB92000 (2.9.1.0, 0xCB000909)
+2022-09-01 07:36:11.516: extensions: Boon Table 0x7FFA5B730000-0x7FFA5B90B000 (2.4.4.0, 0xD5C816FF)
+2022-09-01 07:36:27.344: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652
+			ep 0x7FFA6D5D87A8 frame 0x009B02DFEF10 rva 0x0000000587A8 in d3d11
+			ep 0x7FFA6D5B4046 frame 0x009B02DFEF50 rva 0x000000034046 in d3d11
+			ep 0x7FFA6D593563 frame 0x009B02DFEF80 rva 0x000000013563 in d3d11
+			ep 0x7FFA6D595A47 frame 0x009B02DFF1A0 rva 0x000000015A47 in d3d11
+				start 0x7FFA6D5A45D0 rva 0x0000000245D0 in d3d11
+2022-09-01 07:36:27.378: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.378: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.378: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.378: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.378: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.378: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.379: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.379: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.379: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.379: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.379: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.379: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.379: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.379: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.379: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.379: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.379: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.379: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.380: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.381: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.382: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.383: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.384: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.385: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.386: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.387: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.388: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.389: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.390: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.391: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.392: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.392: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.392: warning: exception C0000005 at 0x7FFA6D5D87A8 thread 7652 (repeated)
+2022-09-01 07:36:27.564: error: intercepted hardware exception at "D:\GuildWars2\gw2.exe +0x0000000000B4FC32" thread 2240
+2022-09-01 07:36:27.564: info: --- exception ---
+			code: 0x00000000C0000005
+			addr: 0x00007FF68AD0FC32
+			offs: 0x0000000000B4FC32
+			prms:   0000000000000002
+			flgs: 0x0000000000000000
+2022-09-01 07:36:27.576: info: --- system ---
+			windows: 10.0
+			cpu: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz
+			ram: 4521MB / 8067MB used
+			gpu: NVIDIA GeForce GTX 1050
+			mem: 4021MB
+2022-09-01 07:36:27.591: info: --- modules ---
+			0x7FF68A1C0000 - 0x7FF68CCA8000    D:\GuildWars2\gw2.exe
+			0x7FFAA4610000 - 0x7FFAA4808000    C:\Windows\SYSTEM32\ntdll.dll
+			0x7FFAA2CD0000 - 0x7FFAA2D8D000    C:\Windows\System32\KERNEL32.DLL
+			0x7FFAA1EE0000 - 0x7FFAA21AE000    C:\Windows\System32\KERNELBASE.dll
+			0x7FFAA3010000 - 0x7FFAA31B0000    C:\Windows\System32\USER32.dll
+			0x7FFAA1D30000 - 0x7FFAA1D52000    C:\Windows\System32\win32u.dll
+			0x7FFAA3F10000 - 0x7FFAA3F3A000    C:\Windows\System32\GDI32.dll
+			0x7FFAA22C0000 - 0x7FFAA23CB000    C:\Windows\System32\gdi32full.dll
+			0x7FFAA2220000 - 0x7FFAA22BD000    C:\Windows\System32\msvcp_win.dll
+			0x7FFAA1DE0000 - 0x7FFAA1EE0000    C:\Windows\System32\ucrtbase.dll
+			0x7FFAA2BC0000 - 0x7FFAA2C6E000    C:\Windows\System32\ADVAPI32.dll
+			0x7FFAA3F40000 - 0x7FFAA3FDE000    C:\Windows\System32\msvcrt.dll
+			0x7FFAA3680000 - 0x7FFAA371C000    C:\Windows\System32\sechost.dll
+			0x7FFAA2A80000 - 0x7FFAA2BA5000    C:\Windows\System32\RPCRT4.dll
+			0x7FFAA3EA0000 - 0x7FFAA3F0B000    C:\Windows\System32\WS2_32.dll
+			0x7FFAA21B0000 - 0x7FFAA2218000    C:\Windows\System32\WINTRUST.dll
+			0x7FFAA4500000 - 0x7FFAA4508000    C:\Windows\System32\PSAPI.DLL
+			0x7FFAA2690000 - 0x7FFAA27BA000    C:\Windows\System32\ole32.dll
+			0x7FFAA3290000 - 0x7FFAA35E4000    C:\Windows\System32\combase.dll
+			0x7FFAA2F40000 - 0x7FFAA300D000    C:\Windows\System32\OLEAUT32.dll
+			0x7FFAA3720000 - 0x7FFAA3E64000    C:\Windows\System32\SHELL32.dll
+			0x7FFAA2480000 - 0x7FFAA25D6000    C:\Windows\System32\CRYPT32.dll
+			0x7FFA9B430000 - 0x7FFA9B43A000    C:\Windows\SYSTEM32\VERSION.dll
+			0x7FFA8DBE0000 - 0x7FFA8DC07000    C:\Windows\SYSTEM32\WINMM.dll
+			0x7FFA9D770000 - 0x7FFA9D784000    C:\Windows\SYSTEM32\WTSAPI32.dll
+			0x7FFA3CC60000 - 0x7FFA3CC7E000    C:\Windows\SYSTEM32\MSACM32.dll
+			0x7FFA8B800000 - 0x7FFA8B9A5000    C:\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.1706_none_919e8e54cc8d4ca1\gdiplus.dll
+			0x7FFA993E0000 - 0x7FFA99490000    C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_792d1c772443f647\COMCTL32.dll
+			0x7FFA8BF90000 - 0x7FFA8BFA9000    C:\Windows\SYSTEM32\USP10.dll
+			0x7FFA8C4E0000 - 0x7FFA8C4EC000    C:\Windows\SYSTEM32\Secur32.dll
+			0x7FFA789F0000 - 0x7FFA78A16000    C:\Windows\SYSTEM32\winmmbase.dll
+			0x7FFA8BAC0000 - 0x7FFA8BAC7000    C:\Windows\SYSTEM32\MSIMG32.dll
+			0x7FFAA1700000 - 0x7FFAA170C000    C:\Windows\SYSTEM32\CRYPTBASE.DLL
+			0x7FFAA1BF0000 - 0x7FFAA1C22000    C:\Windows\SYSTEM32\SSPICLI.DLL
+			0x7FFAA3E70000 - 0x7FFAA3EA0000    C:\Windows\System32\IMM32.DLL
+			0x7FFAA1920000 - 0x7FFAA1932000    C:\Windows\SYSTEM32\MSASN1.dll
+			0x7FFAA25E0000 - 0x7FFAA2662000    C:\Windows\System32\bcryptPrimitives.dll
+			0x7FFA9FC00000 - 0x7FFA9FDE4000    C:\Windows\SYSTEM32\dbghelp.dll
+			0x7FFA9FE10000 - 0x7FFAA05A4000    C:\Windows\SYSTEM32\windows.storage.dll
+			0x7FFAA1790000 - 0x7FFAA17C0000    C:\Windows\SYSTEM32\Wldp.dll
+			0x7FFAA28B0000 - 0x7FFAA295D000    C:\Windows\System32\SHCORE.dll
+			0x7FFAA2850000 - 0x7FFAA28A5000    C:\Windows\System32\shlwapi.dll
+			0x7FFAA1C70000 - 0x7FFAA1C8F000    C:\Windows\SYSTEM32\profapi.dll
+			0x7FFAA05C0000 - 0x7FFAA05D2000    C:\Windows\SYSTEM32\kernel.appcore.dll
+			0x7FFAA1D60000 - 0x7FFAA1D87000    C:\Windows\System32\bcrypt.dll
+			0x7FFA9F480000 - 0x7FFA9F51E000    C:\Windows\system32\uxtheme.dll
+			0x7FFA995F0000 - 0x7FFA99621000    C:\Windows\SYSTEM32\cryptnet.dll
+			0x7FFAA2670000 - 0x7FFAA268D000    C:\Windows\System32\imagehlp.dll
+			0x7FFAA16E0000 - 0x7FFAA16F8000    C:\Windows\SYSTEM32\CRYPTSP.dll
+			0x7FFAA0E00000 - 0x7FFAA0E34000    C:\Windows\system32\rsaenh.dll
+			0x7FFA994D0000 - 0x7FFA9950B000    C:\Windows\SYSTEM32\dxcore.dll
+			0x7FFAA1D90000 - 0x7FFAA1DDE000    C:\Windows\System32\cfgmgr32.dll
+			0x7FFAA4450000 - 0x7FFAA44F9000    C:\Windows\System32\clbcatq.dll
+			0x7FFAA0A30000 - 0x7FFAA0A63000    C:\Windows\SYSTEM32\ntmarta.dll
+			0x7FFA8C4C0000 - 0x7FFA8C4D7000    C:\Windows\system32\napinsp.dll
+			0x7FFA8C4A0000 - 0x7FFA8C4BB000    C:\Windows\system32\pnrpnsp.dll
+			0x7FFA8C480000 - 0x7FFA8C495000    C:\Windows\system32\wshbth.dll
+			0x7FFA9D460000 - 0x7FFA9D47D000    C:\Windows\system32\NLAapi.dll
+			0x7FFAA1190000 - 0x7FFAA11CB000    C:\Windows\SYSTEM32\IPHLPAPI.DLL
+			0x7FFAA14F0000 - 0x7FFAA155A000    C:\Windows\System32\mswsock.dll
+			0x7FFAA11D0000 - 0x7FFAA129A000    C:\Windows\SYSTEM32\DNSAPI.dll
+			0x7FFAA2840000 - 0x7FFAA2848000    C:\Windows\System32\NSI.dll
+			0x7FFA8C460000 - 0x7FFA8C472000    C:\Windows\System32\winrnr.dll
+			0x7FFA91F90000 - 0x7FFA92010000    C:\Windows\System32\fwpuclnt.dll
+			0x7FFA932A0000 - 0x7FFA932AA000    C:\Windows\System32\rasadhlp.dll
+			0x7FFAA2960000 - 0x7FFAA2A75000    C:\Windows\System32\msctf.dll
+			0x7FFA8B520000 - 0x7FFA8B619000    C:\Windows\SYSTEM32\textinputframework.dll
+			0x7FFA9EF90000 - 0x7FFA9F082000    C:\Windows\System32\CoreMessaging.dll
+			0x7FFA9EC30000 - 0x7FFA9EF8E000    C:\Windows\System32\CoreUIComponents.dll
+			0x7FFA9E560000 - 0x7FFA9E6B4000    C:\Windows\SYSTEM32\wintypes.dll
+			0x7FFA8B9B0000 - 0x7FFA8BA16000    C:\Windows\system32\Oleacc.dll
+			0x7FFA9C2D0000 - 0x7FFA9C484000    C:\Windows\SYSTEM32\WindowsCodecs.dll
+			0x7FFA80330000 - 0x7FFA803DC000    C:\Windows\SYSTEM32\TextShaping.dll
+			0x7FFA799D0000 - 0x7FFA79B02000    D:\GuildWars2\bin64\CoherentUI64.dll
+			0x7FFA93AA0000 - 0x7FFA93C6F000    C:\Windows\SYSTEM32\d3d9.dll
+			0x7FFA9F670000 - 0x7FFA9F69F000    C:\Windows\SYSTEM32\dwmapi.dll
+			0x7FFAA0CA0000 - 0x7FFAA0CFA000    C:\Windows\SYSTEM32\WINSTA.dll
+			0x7FFA93DD0000 - 0x7FFA944C0000    C:\Windows\SYSTEM32\nvapi64.dll
+			0x7FFAA3FE0000 - 0x7FFAA444F000    C:\Windows\System32\SETUPAPI.DLL
+			0x7FFA6D580000 - 0x7FFA6D6CB000    D:\GuildWars2\d3d11.dll
+			0x7FFA93770000 - 0x7FFA9387A000    C:\Windows\SYSTEM32\WINHTTP.dll
+			0x7FFA9DA00000 - 0x7FFA9DE5D000    C:\Windows\SYSTEM32\D3DCOMPILER_47.dll
+			0x7FFAA0630000 - 0x7FFAA0723000    C:\Windows\SYSTEM32\dxgi.dll
+			0x7FFA7A6A0000 - 0x7FFA7A6F7000    C:\Windows\SYSTEM32\dxgidebug.dll
+			0x7FFA9D790000 - 0x7FFA9D9F3000    C:\Windows\system32\d3d11.dll
+			0x7FFA6D470000 - 0x7FFA6D575000    C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvldumdx.dll
+			0x7FFA56460000 - 0x7FFA5AE36000    C:\Windows\System32\DriverStore\FileRepository\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			0x7FFA8C4F0000 - 0x7FFA8C6BB000    C:\Windows\system32\nvspcap64.dll
+			0x7FFA97110000 - 0x7FFA9885A000    C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_9dc776be3e13ad6d\igd10iumd64.dll
+			0x7FFAA1800000 - 0x7FFAA1827000    C:\Windows\SYSTEM32\ncrypt.dll
+			0x7FFAA17C0000 - 0x7FFAA17FB000    C:\Windows\SYSTEM32\NTASN1.dll
+			0x7FFA95330000 - 0x7FFA9693C000    C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_9dc776be3e13ad6d\igc64.dll
+			0x7FFA9E6C0000 - 0x7FFA9E8A4000    C:\Windows\SYSTEM32\dcomp.dll
+			0x7FFA99DE0000 - 0x7FFA99E65000    C:\Windows\System32\MMDevApi.dll
+			0x7FFAA1AE0000 - 0x7FFAA1B0C000    C:\Windows\System32\DEVOBJ.dll
+			0x7FFA9C110000 - 0x7FFA9C156000    C:\Windows\SYSTEM32\wdmaud.drv
+			0x7FFA9C660000 - 0x7FFA9C669000    C:\Windows\SYSTEM32\ksuser.dll
+			0x7FFA9D070000 - 0x7FFA9D07A000    C:\Windows\SYSTEM32\AVRT.dll
+			0x7FFA9A640000 - 0x7FFA9A7C2000    C:\Windows\SYSTEM32\AUDIOSES.DLL
+			0x7FFAA1300000 - 0x7FFAA134B000    C:\Windows\SYSTEM32\powrprof.dll
+			0x7FFAA1170000 - 0x7FFAA1182000    C:\Windows\SYSTEM32\UMPDC.dll
+			0x7FFA9C650000 - 0x7FFA9C65D000    C:\Windows\SYSTEM32\msacm32.drv
+			0x7FFA9C100000 - 0x7FFA9C10B000    C:\Windows\SYSTEM32\midimap.dll
+			0x7FFA9F570000 - 0x7FFA9F584000    C:\Windows\SYSTEM32\resourcepolicyclient.dll
+			0x7FFA9C580000 - 0x7FFA9C62E000    C:\Windows\SYSTEM32\mscms.dll
+			0x7FFAA1C30000 - 0x7FFAA1C5E000    C:\Windows\SYSTEM32\USERENV.dll
+			0x7FFA9C4A0000 - 0x7FFA9C4B1000    C:\Windows\SYSTEM32\ColorAdapterClient.dll
+			0x7FFA9B0D0000 - 0x7FFA9B113000    C:\Windows\SYSTEM32\icm32.dll
+			0x7FFA5BEC0000 - 0x7FFA5C09C000    D:\GuildWars2\arcdps_unofficial_extras.dll
+			0x7FFAA0D20000 - 0x7FFAA0DB8000    C:\Windows\system32\schannel.DLL
+			0x7FFA832A0000 - 0x7FFA832B5000    C:\Windows\SYSTEM32\mskeyprotect.dll
+			0x7FFA83450000 - 0x7FFA83476000    C:\Windows\system32\ncryptsslp.dll
+			0x7FFA5B910000 - 0x7FFA5BB92000    D:\GuildWars2\d3d9_arcdps_killproof_me.dll
+			0x7FFA5B730000 - 0x7FFA5B90B000    D:\GuildWars2\d3d9_arcdps_table.dll
+			0x7FFA8FFC0000 - 0x7FFA9004E000    C:\Windows\SYSTEM32\MSVCP140.dll
+			0x7FFA90C20000 - 0x7FFA90C2C000    C:\Windows\SYSTEM32\VCRUNTIME140_1.dll
+			0x7FFA90C30000 - 0x7FFA90C4B000    C:\Windows\SYSTEM32\VCRUNTIME140.dll
+2022-09-01 07:36:28.078: info: --- threads ---
+			id 11580: start 0x00007FF68A48DB58 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  3856: start 0x00007FFAA4662AD0 RIP 0x00007FFAA46B0994 in ...\SYSTEM32\ntdll.dll
+			id  9144: start 0x00007FFAA4662AD0 RIP 0x00007FFAA46B0994 in ...\SYSTEM32\ntdll.dll
+			id  6592: start 0x00007FF68A49E228 RIP 0x00007FFAA46AFD34 in ...\GuildWars2\gw2.exe
+			id 11828: start 0x00007FF68A49E228 RIP 0x00007FFAA46AFD34 in ...\GuildWars2\gw2.exe
+			id  9728: start 0x00007FF68A49E228 RIP 0x00007FFAA46AFD34 in ...\GuildWars2\gw2.exe
+			id   892: start 0x00007FF68A49E228 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  6556: start 0x00007FFAA249BF50 RIP 0x00007FFAA46ADA94 in ...\System32\CRYPT32.dll
+			id 12816: start 0x00007FFAA4662AD0 RIP 0x00007FFAA46B0994 in ...\SYSTEM32\ntdll.dll
+			id 10744: start 0x00007FF68A4632A0 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  8524: start 0x00007FF68A4632A0 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  3584: start 0x00007FF68A4632A0 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  7048: start 0x00007FF68A49E228 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  6988: start 0x00007FF68A49E228 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  1468: start 0x00007FF68A49E228 RIP 0x00007FFAA1D31104 in ...\GuildWars2\gw2.exe
+			id 12268: start 0x00007FFAA3EC34B0 RIP 0x00007FFAA46ACFC4 in ...\System32\WS2_32.dll
+			id 12808: start 0x00007FF68A49E228 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id 12076: start 0x00007FF68A49E228 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  8328: start 0x00007FF68A49E228 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  7040: start 0x00007FFA8B809020 RIP 0x00007FFAA1D3A104 in ...\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.1706_none_919e8e54cc8d4ca1\gdiplus.dll
+			id 11716: start 0x00007FF68A49E228 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  2456: start 0x00007FF68A49E228 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id 12692: start 0x00007FF68A1C94C0 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id 10512: start 0x00007FF68A3991F0 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  6588: start 0x00007FFA6D5A46F0 RIP 0x00007FFAA46AD5C4 in ...\GuildWars2\d3d11.dll
+			id  8792: start 0x00007FFA6D5A4600 RIP 0x00007FFAA46AD5C4 in ...\GuildWars2\d3d11.dll
+			id  7652: start 0x00007FFA6D5A45D0 RIP 0x00007FFAA46AD5C4 in ...\GuildWars2\d3d11.dll
+			id  8136: start 0x00007FFAA4662AD0 RIP 0x00007FFAA46B0994 in ...\SYSTEM32\ntdll.dll
+			id  9244: start 0x00007FFAA4662AD0 RIP 0x00007FFAA46B0994 in ...\SYSTEM32\ntdll.dll
+			id 11540: start 0x00007FFAA4662AD0 RIP 0x00007FFAA46B0994 in ...\SYSTEM32\ntdll.dll
+			id  5908: start 0x00007FFAA4662AD0 RIP 0x00007FFAA46B0994 in ...\SYSTEM32\ntdll.dll
+			id 10144: start 0x00007FFAA4662AD0 RIP 0x00007FFAA46B0994 in ...\SYSTEM32\ntdll.dll
+			id  5916: start 0x00007FFAA4662AD0 RIP 0x00007FFAA46B0994 in ...\SYSTEM32\ntdll.dll
+			id 10156: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id   472: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id 11228: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id 12160: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id  7320: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id  8968: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id  9788: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id 12104: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id 12600: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id   208: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id  2240: start 0x00007FF68A49E228 RIP 0x0000000000000000 in ...\GuildWars2\gw2.exe
+			id  3620: start 0x00007FF68A49E228 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  6880: start 0x00007FF68A49E228 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  8552: start 0x00007FF68A49E228 RIP 0x00007FFAA46AD5C4 in ...\GuildWars2\gw2.exe
+			id  1676: start 0x00007FF68A1C94C0 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id 12812: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id  7612: start 0x00007FFA5BFDEC6C RIP 0x00007FFAA46B0934 in ...\GuildWars2\arcdps_unofficial_extras.dll
+			id 12664: start 0x00007FFA5BFDEC6C RIP 0x00007FFAA46B0934 in ...\GuildWars2\arcdps_unofficial_extras.dll
+			id  4584: start 0x00007FFAA14F1010 RIP 0x00007FFAA46AD064 in ...\System32\mswsock.dll
+			id  6756: start 0x00007FFA5BA293C8 RIP 0x00007FFAA46B0934 in ...\GuildWars2\d3d9_arcdps_killproof_me.dll
+			id  3100: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id  5156: start 0x00007FFA57A9771C RIP 0x00007FFAA46ADA94 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id  9092: start 0x00007FFA5BFDEC6C RIP 0x00007FFAA46B0934 in ...\GuildWars2\arcdps_unofficial_extras.dll
+			id  2848: start 0x00007FF68A49E228 RIP 0x00007FFAA46ACFC4 in ...\GuildWars2\gw2.exe
+			id  5656: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id  1160: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id  7532: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+			id  1500: start 0x00007FFA57A9771C RIP 0x00007FFAA46ACFC4 in ...\nvlti.inf_amd64_4ddb3cc1d1c1ca09\nvwgf2umx.dll
+2022-09-01 07:36:28.079: info: --- registers ---
+			RAX: 0x0000000000000000   R8:  0x0000009B035FF810
+			RBX: 0x0000000000000000   R9:  0x0000000000000001
+			RCX: 0x0000026E8CE43BC8   R10: 0x0000000000008000
+			RDX: 0x0000000000000008   R11: 0x0000009B035FF808
+			RBP: 0x0000009B035FF869   R12: 0x0000000000000000
+			RSP: 0x0000009B035FF760   R13: 0x0000000000000000
+			RSI: 0x0000000000000000   R14: 0x0000000000000000
+			RDI: 0x0000026E6DD50CF0   R15: 0x0000000000000280
+			RIP: 0x00007FF68AD0FC32
+2022-09-01 07:36:28.079: info: --- code ---
+			0x7FF68AD0FBF2: 4360A801 7509488B 5B604885 DB75E748
+			0x7FF68AD0FC02: 83BFA800 00000075 1941B8C4 02000048
+			0x7FF68AD0FC12: 8D1530B4 F900488D 0DC9B4F9 00E89C96
+			0x7FF68AD0FC22: 58FF488B 8F880000 0033DBE8 4EA983FF
+			0x7FF68AD0FC32: 39585076 6C660F1F 84000000 0000488B
+			0x7FF68AD0FC42: 8F880000 00E834A9 83FF488D 149B488B
+			0x7FF68AD0FC52: 48544883 3C910074 3548837C 91080074
+			0x7FF68AD0FC62: 174C8B44 9108488B 1491488B 8FA80000
+2022-09-01 07:36:28.079: info: --- stack ---
+			0x009B035FF5E0: F7494600 00000000 00000000 00000000
+			0x009B035FF5F0: 3EFD6DF2 F67F0000 A15B63A4 FA7F0000
+			0x009B035FF600: F7494600 00000000 A15B63A4 FA7F0000
+			0x009B035FF610: 28E0FB6C 6E020000 A15B63A4 FA7F0000
+			0x009B035FF620: 00000000 00000000 00000000 00000000
+			0x009B035FF630: D09C9F66 6E020000 4E000000 F67F0000
+			0x009B035FF640: 909B9F66 6E020000 19000000 6E020000
+			0x009B035FF650: 40C9097E 6E020000 9D020000 6E020000
+			0x009B035FF660: 0000A76F 6E020000 402F263C 6E020000
+			0x009B035FF670: 0000A76F 6E020000 97E9D08A F67F0000
+			0x009B035FF680: 0000A76F 6E020000 980B2769 6E020000
+			0x009B035FF690: 76020000 00000000 00000000 00000000
+			0x009B035FF6A0: 76020000 00000000 C872E067 6E020000
+			0x009B035FF6B0: 7B020000 00000000 88C5806C 6E020000
+			0x009B035FF6C0: 00000000 00000000 00000000 00000000
+			0x009B035FF6D0: A020293C 6E020000 B14763A4 FA7F0000
+			0x009B035FF6E0: 88C5806C 6E020000 0000976F 6E020000
+			0x009B035FF6F0: 69F85F03 9B000000 00000000 00000000
+			0x009B035FF700: 00000000 00000000 B020293C 6E020000
+			0x009B035FF710: B020293C 6E020000 4ECF288A F67F0000
+			0x009B035FF720: 00000000 00000000 891FCE8A F67F0000
+			0x009B035FF730: 01000000 00000000 F03BCE8A F67F0000
+			0x009B035FF740: 40AB126D 6E020000 3C352A8A F67F0000
+			0x009B035FF750: 00000000 00000000 32FCD08A F67F0000
+			0x009B035FF760: 88C5806C 6E020000 7B020000 00000000
+			0x009B035FF770: 48A9126D 6E020000 3074D28A F67F0000
+			0x009B035FF780: C85FD76D 6E020000 F0FBD08A F67F0000
+			0x009B035FF790: F00CD56D 6E020000 B0968A8C F67F0000
+			0x009B035FF7A0: 30A9126D 6E020000 B4F9D08A F67F0000
+			0x009B035FF7B0: F00CD56D 6E020000 A4A1D18A F67F0000
+			0x009B035FF7C0: C85FD76D 6E020000 2DD02253 6034C302
+			0x009B035FF7D0: 250B7B61 762A0000 9704D18A F67F0000
+			0x009B035FF7E0: 30A9126D 6E020000 00000000 00000000
+			0x009B035FF7F0: C85FD76D 6E020000 48A9126D 6E020000
+			0x009B035FF800: B0968A8C F67F0000 18B0CE8A F67F0000
+			0x009B035FF810: 00000000 00000000 C85FD76D 6E020000
+			0x009B035FF820: 69F85F03 9B000000 48A9126D 6E020000
+			0x009B035FF830: 00000000 00000000 0BA7F3A1 FA7F0000
+			0x009B035FF840: 02010000 00000000 00000000 00000000
+			0x009B035FF850: 00000000 00000000 18401700 6E020000
+			0x009B035FF860: 00000000 00000000 0BA7F3A1 FA7F0000
+			0x009B035FF870: 00000000 00000000 00000000 00000000
+			0x009B035FF880: 00000000 00000000 00000000 00000000
+			0x009B035FF890: 00000000 00000000 00000000 00000000
+			0x009B035FF8A0: 10401700 6E020000 18401700 6E020000
+			0x009B035FF8B0: 00000000 00000000 00000000 00000000
+			0x009B035FF8C0: 00000000 00000000 92ABCE8A F67F0000
+			0x009B035FF8D0: 18401700 6E020000 00000000 00000000
+2022-09-01 07:36:28.084: info: --- trace ---
+			ep 0x7FF68AD0FC32 frame 0x009B035FF780 rva 0x000000B4FC32 in gw2
+			ep 0x7FF68AD0FBF0 frame 0x009B035FF7B0 rva 0x000000B4FBF0 in gw2
+			ep 0x7FF68AD1A1A4 frame 0x009B035FF800 rva 0x000000B5A1A4 in gw2
+			ep 0x7FF68ACEB018 frame 0x009B035FF8C0 rva 0x000000B2B018 in gw2
+			ep 0x7FF68ACEAB92 frame 0x009B035FF8F0 rva 0x000000B2AB92 in gw2
+			ep 0x7FF68A28F5CD frame 0x009B035FF920 rva 0x0000000CF5CD in gw2
+			ep 0x7FF68A49E278 frame 0x009B035FF950 rva 0x0000002DE278 in gw2
+			ep 0x7FFAA2CE7034 frame 0x009B035FF980 rva 0x000000017034 in KERNEL32
+			ep 0x7FFAA4662651 frame 0x009B035FFA00 rva 0x000000052651 in ntdll
+			start 0x7FF68A49E228 rva 0x0000002DE228 in gw2

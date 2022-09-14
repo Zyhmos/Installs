@@ -109,6 +109,16 @@ Disable windows updates
 Disable antivirus/app updates/downloads
 
 
+###########
+### GW2 ###
+###########
+
+BlishHud	- https://blishhud.com
+ArcDPS		- https://www.deltaconnected.com/arcdps/x64/
+BoonTable	- https://github.com/MarsEdge/GW2-ArcDPS-Boon-Table/releases/
+Extras		- https://github.com/Krappa322/arcdps_unofficial_extras_releases/releases/
+Killproof	- https://github.com/knoxfighter/arcdps-killproof.me-plugin/releases/
+Launcher	- https://github.com/Healix/Gw2Launcher
 
 
 ############
