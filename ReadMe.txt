@@ -109,6 +109,17 @@ Disable windows updates
 Disable antivirus/app updates/downloads
 
 
+##############
+### Rebind ###
+##############
+
+registry > hkey_local_machine\system\CurrentControlSet\Control\Keyboard Layout
+New binary value "Scancode Map"
+0000 00 00 00 00 00 00 00 00 ...
+0008 02 00 00 00 1C 00 3A 00 ...
+0010 00 00 00
+Reboot
+
 ###########
 ### GW2 ###
 ###########
